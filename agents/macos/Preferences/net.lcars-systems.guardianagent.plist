@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Interface Bind</key>
+	<string>en0</string>
+	<key>PreShared Key</key>
+	<string>$3cr3tPr3$h@r3dK3y</string>
+	<key>URL Endpoint</key>
+	<string>https://mdm.example.com/checkin.php</string>
+</dict>
+</plist>
